@@ -2,13 +2,13 @@ Sistema de Cadastro e Notas de Alunos
 
 Sistema que permite cadastrar alunos, exibir a lista de cadastros e mostrar as notas de um aluno específico.
 
-Funcionalidades
+Funcionalidades:
 
 - Cadastrar aluno com código, nome e três notas.
 - Exibir a lista de alunos cadastrados.
 - Mostrar as notas e a média de um aluno específico.
 
-Módulos
+Módulos:
 
 • cadastrar_aluno()
 
@@ -25,7 +25,7 @@ Módulos
 - Solicita o código do aluno.
 - Recupera as informações do aluno e exibe suas notas e média.
 
-Principal
+Principal:
 
 O programa contém um loop principal que permite ao usuário escolher entre cadastrar um aluno, mostrar a lista de alunos cadastrados ou mostrar as notas de um aluno específico.
 
@@ -35,11 +35,11 @@ Como Usar:
 
 https://github.com/kyliews/Formulario_Escolar
 
-2.Navegue até o diretório do projeto:
+2. Navegue até o diretório do projeto:
 
 cd Formulario_Escolar
 
-Execute o script Python:
+3. Execute o script Python:
 
 python CadastroAlunos.py
 
